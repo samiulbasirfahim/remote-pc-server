@@ -1,4 +1,4 @@
-# [Only working on linux]
+# [Only for linux]
 ## [player-ctl pulseaudio-ctl firefox required]
 
 - git clone https://github.com/samiulbasirfahim/remote-pc-server.git
